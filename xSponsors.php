@@ -6,7 +6,7 @@
  * @author  @xopherdeep
  * @icon    flag
  * @mini    flag
- * @see     radius
+ * @see     clicks
  * @link    sponsors
  * @todo
  * @alpha   true
