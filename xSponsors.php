@@ -2,8 +2,8 @@
 /**
  * @name    Sponsors
  * @desc
- * @version 0.1
- * @author  @xopherdeep
+    * @version v0.1(160710)
+    * @author  @xopherdeep
  * @icon    flag
  * @mini    flag
  * @see     clicks
